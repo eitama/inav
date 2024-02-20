@@ -155,5 +155,5 @@
 // *************** PINIO ***************************
 #define USE_PINIO
 #define USE_PINIOBOX
-#define PINIO1_PIN                  PC00 // Who knows
+#define PINIO1_PIN                  PC0 // Who knows
 #define PINIO2_PIN                  PC14 // Who knows
